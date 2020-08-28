@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_inbox/202008270839 矩阵在二次型的应用.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -51,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "d51912a3a2fd8674",
@@ -66,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "_inbox/202008270839 矩阵在二次型的应用.md"
+              }
             }
           },
           {
@@ -82,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_inbox/202008270839 矩阵在二次型的应用.md"
+              }
             }
           }
         ]
@@ -93,10 +101,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_inbox/Untitled.md",
     "_inbox/202008280818 这是个测试.md",
     "2017-09 高等数学基本原理/奇异值分解 SVD.md",
     "_inbox/项目启动及论证.md",
-    "_inbox/相似矩阵.md",
-    "_inbox/矩阵内各向量的线性相关性.md"
+    "_inbox/相似矩阵.md"
   ]
 }
