@@ -1,0 +1,31 @@
+{
+  "theme": "moonstone",
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "word-count": true,
+    "tag-pane": true,
+    "page-preview": true,
+    "starred": true,
+    "random-note": true,
+    "outline": true,
+    "slides": false,
+    "open-with-default-app": false,
+    "audio-recorder": true,
+    "zk-prefixer": true
+  },
+  "trashOption": "system",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "attachments",
+  "newFileFolderPath": "_inbox",
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "showLineNumber": false,
+  "foldIndent": true
+}

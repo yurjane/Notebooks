@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "953aabf9e191aaa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "24a958a0523eb709",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1038ae98601c8ded",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a39abb753d96d81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11bb0356b99f235b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee20bb09f276b94a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f93ef83be3cefa0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274
+  },
+  "right": {
+    "id": "d51912a3a2fd8674",
+    "type": "split",
+    "children": [
+      {
+        "id": "319da18e37e7946a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c62c15b83c4ce597",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "bfd3ddd854d2c5ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "207fd8cc50d322fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "_inbox/202008280818 这是个测试.md",
+    "2017-09 高等数学基本原理/奇异值分解 SVD.md",
+    "_inbox/项目启动及论证.md",
+    "_inbox/相似矩阵.md",
+    "_inbox/矩阵内各向量的线性相关性.md"
+  ]
+}
